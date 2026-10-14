@@ -1,2 +1,2 @@
-# First 30 Sols
+# Solbound: Mars Outpost
 Single-player colony survival challenge
